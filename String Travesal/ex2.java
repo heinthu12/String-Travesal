@@ -2,7 +2,7 @@
 /**
  * クラス ex2 の注釈をここに書きます.
  * 
- * @author (Hein THu)
+ * @author (Hein Thu)
  * @version (2019/11/01)
  */
 public class ex2{
